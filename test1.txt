@@ -1,5 +1,5 @@
      1	# shell-command
-     2	总结常用shell，vim等常用命令11
+     2	总结常用shell，vim等常用命令
      3	
      4	# shell
      5	1.复制文件：
