@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ClimbYU/shell-command/issues"
   },
-  "homepage": "https://github.com/ClimbYU/shell-command#readme"
+  "homepage": "https://github.com/ClimbYU/shell-command#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
